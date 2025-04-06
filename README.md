@@ -29,7 +29,7 @@ Cada funcionalidade será implementada em **branches separadas**, facilitando o 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/agendamento-react.git
+   git clone https://github.com/Gikovanni/EstudosReact.git
    cd agendamento-react
 
 2. Instalação de dependencias:
@@ -37,5 +37,47 @@ Cada funcionalidade será implementada em **branches separadas**, facilitando o 
     npm install
 
 3. Executar o projeto:
+    ```bash
+    npm run dev
+
+# React Studies
+
+This repository is a **study project** using **ReactJS**.
+
+## 🎯 Purpose
+
+The main goal of this project is to serve as a foundation for learning and practicing fundamental React concepts, such as:
+
+- Components
+- State management
+- Events
+- Conditional rendering
+- Form handling
+
+Each functionality will be implemented in **separate branches**, making it easier to study and compare solutions. The `main` (or `master`) branch will contain only the **initial template** of the scheduling system, with the basic structure ready for development.
+
+---
+
+##  Technologies Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/) – for project scaffolding and building
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+##  How to run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gikovanni/EstudosReact.git
+   cd agendamento-react
+
+2. Installing dependencies:
+    ```bash
+   npm install
+
+3. Run the project:
     ```bash
     npm run dev
