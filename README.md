@@ -44,7 +44,7 @@ Cada funcionalidade será implementada em **branches separadas**, facilitando o 
 
 This repository is a **study project** using **ReactJS**.
 
-## 🎯 Purpose
+## Purpose
 
 The main goal of this project is to serve as a foundation for learning and practicing fundamental React concepts, such as:
 
