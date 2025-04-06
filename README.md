@@ -33,7 +33,9 @@ Cada funcionalidade será implementada em **branches separadas**, facilitando o 
    cd agendamento-react
 
 2. Instalação de dependencias:
+    ```bash
     npm install
 
 3. Executar o projeto:
+    ```bash
     npm run dev
